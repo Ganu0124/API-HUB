@@ -1,0 +1,18 @@
+.env key names,,,
+"Names are a proposed convention for FreeAPI Hub, not mandated by providers. Put real values only in .env (git-ignored).",,,
+,,,
+Provider,Variable,Placeholder value (.env.example),Required?
+Google Gemini,GEMINI_API_KEY,your_key_here,No
+Groq,GROQ_API_KEY,your_key_here,No
+Hugging Face,HUGGINGFACE_API_KEY,your_key_here,No
+OpenRouter,OPENROUTER_API_KEY,your_key_here,No
+Mistral,MISTRAL_API_KEY,your_key_here,No
+Cohere,COHERE_API_KEY,your_key_here,No
+Tavily,TAVILY_API_KEY,your_key_here,No
+OpenWeatherMap,OPENWEATHER_API_KEY,your_key_here,No
+NewsAPI.org,NEWSAPI_KEY,your_key_here,No
+Alpha Vantage,ALPHA_VANTAGE_API_KEY,your_key_here,No
+Cloudflare Workers AI,CLOUDFLARE_API_TOKEN,your_key_here,No
+Cloudflare Workers AI,CLOUDFLARE_ACCOUNT_ID,your_account_id,No
+App setting,DEFAULT_PROVIDER,,Yes
+App setting,FALLBACK_PROVIDER,,No
