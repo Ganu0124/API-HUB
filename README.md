@@ -1023,21 +1023,7 @@ git push -u origin main
 ```
 
 ---
-
-## 📈 Repository Insights
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/freeapi-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=freeapi-hub&theme=tokyonight&hide_border=true" alt="Repo card"/>
-</a>
-
-<a href="https://star-history.com/#YOUR_USERNAME/freeapi-hub&Date">
-  <img src="https://api.star-history.com/svg?repos=YOUR_USERNAME/freeapi-hub&type=Date&theme=dark" alt="Star history" width="600"/>
-</a>
-
 <br/><br/>
-
 **Built for developers who want to build with free APIs, honestly and safely.**
 
 ⭐ Star this repo if it helps you · 📄 Licensed under [MIT](LICENSE)
